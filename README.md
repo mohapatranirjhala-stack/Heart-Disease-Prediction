@@ -1,4 +1,4 @@
-# Heart Disease Prediction
+# AI Cardiovascular Risk Assessment & Clinical Decision Support System
 
 - LinkedIn [Hema Kalyan Murapaka](https://www.linkedin.com/in/hemakalyan)
 - Medium [KalyanMurapaka274](https://medium.com/@kalyanmurapaka274)
